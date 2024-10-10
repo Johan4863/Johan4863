@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm just casual programmer, I was in IT school but that's only thing that connecting me to coding, Rest of skills i have I've earned by self learning. I'm new in this type of work but if I would need to point what's I'm best in I would propably say in making Discord bots and Frontend. I've also was trying to create own games but it's ended with most clicked button being "Create New Project".I know some basics after doing it for 2 years but wanna learn more.</p>
+<p align="left">I'm just casual programmer, I was in IT school but that's only thing that connecting me to coding. Rest of skills I have I've earned by self learning. I'm new in this type of work but if I would need to point what's I'm best in I would propably say in making Discord bots and Frontend. I've also was trying to create own games but it's ended with most clicked button being "Create New Project".I know some basics after doing it for 2 years but wanna learn more.</p>
 
 ###
 
