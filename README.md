@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Languages/Frameworks/Softwares i know</h2>
+<h2 align="left">Languages/Frameworks/Softwares I Know</h2>
 
 ###
 
